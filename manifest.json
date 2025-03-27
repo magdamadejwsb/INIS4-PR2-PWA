@@ -7,7 +7,7 @@
     "orientation": "portrait",
     "scope": "/",
     "start_url": "/INIS4-PR2-PWA/",
-    "icon": [
+    "icons": [
         {
             "src" : "./img/pwalogo.png",
             "sizes" : "512x512",
