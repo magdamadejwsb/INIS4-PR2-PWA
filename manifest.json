@@ -6,7 +6,7 @@
     "display": "fullscreen",
     "orientation": "portrait",
     "scope": "/",
-    "start_url": "/",
+    "start_url": "/INIS4-PR2-PWA/",
     "icon": [
         {
             "src" : "./img/pwalogo.png",
